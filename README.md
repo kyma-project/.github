@@ -6,3 +6,15 @@ These files are used by all public repositories if there are no own versions of 
 
 Changes to the community health files and this repository are managed in a central internal location and mirrored to this repository.
 Manual changes to this repository will be overwritten and we can not accept any pull requests.
+
+## Contributing
+
+See the [Contributing Rules](CONTRIBUTING.md).
+
+## Code of Conduct
+
+See the [Code of Conduct](CODE_OF_CONDUCT.md) document.
+
+## Licensing
+
+See the [license](./LICENSE) file.
